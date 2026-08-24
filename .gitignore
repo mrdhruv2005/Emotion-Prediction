@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+_pipcheck_tmp/
+_pipreport.json
+.DS_Store
+./claude
+runtime.txt
